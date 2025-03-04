@@ -59,9 +59,9 @@ To prepare the dataset for analysis:
 
 Key Findings:
 
-📌 Annual members ride more frequently on weekdays, suggesting they use
+-Annual members ride more frequently on weekdays, suggesting they use
 bikes primarily for commuting.  
-📌 Casual riders take more trips on weekends, indicating leisure-based
+-Casual riders take more trips on weekends, indicating leisure-based
 usage.
 
 Visualization:
@@ -73,9 +73,9 @@ alt="A graph of different colored bars AI-generated content may be incorrect." /
 
 Key Findings:
 
-📌 Casual riders have significantly longer ride durations compared to
+-Casual riders have significantly longer ride durations compared to
 annual members.  
-📌 Members tend to use bikes for short, consistent rides, while casual
+-Members tend to use bikes for short, consistent rides, while casual
 users take longer, possibly recreational trips.
 
 Visualization:
@@ -85,15 +85,15 @@ alt="A graph of blue and pink bars AI-generated content may be incorrect." />
 
 <u>4.3 Hourly Ride Trends</u>
 
-Key Findings:
+##Key Findings:
 
-📌 Peak ride hours differ:
+###Peak ride hours differ:
 
 - Members peak at 7-9 AM & 5-7 PM → Commuting hours.
 
 - Casual riders peak at 10 AM - 4 PM → Leisure trips.
 
-📌Casual users ride later in the day, while members prefer early
+###Casual users ride later in the day, while members prefer early
 morning/evening rides.
 
 Visualization:
@@ -159,5 +159,5 @@ long-term revenue.
 
 **7. Appendix**
 
-📂 [Full R Code](https://github.com/Aaqib91/Google-Analytics-Capstone-Project/blob/main/Cyclistic-Bike-Share.Rmd)
-📂 [Raw Data Sample](https://divvy-tripdata.s3.amazonaws.com/index.html).
+-[Full R Code](https://github.com/Aaqib91/Google-Analytics-Capstone-Project/blob/main/Cyclistic-Bike-Share.Rmd)
+-[Raw Data Sample](https://divvy-tripdata.s3.amazonaws.com/index.html).
