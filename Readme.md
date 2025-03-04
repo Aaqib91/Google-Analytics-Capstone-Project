@@ -159,6 +159,5 @@ long-term revenue.
 
 **7. Appendix**
 
-📂 Full R Code Snippets *(Attach cleaned and formatted .Rmd
-snippets)*.  
+📂 [Full R Code](https://github.com/Aaqib91/Google-Analytics-Capstone-Project/blob/main/Cyclistic-Bike-Share.Rmd)
 📂 [Raw Data Sample](https://divvy-tripdata.s3.amazonaws.com/index.html).
