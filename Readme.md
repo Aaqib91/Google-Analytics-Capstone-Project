@@ -85,15 +85,15 @@ alt="A graph of blue and pink bars AI-generated content may be incorrect." />
 
 <u>4.3 Hourly Ride Trends</u>
 
-##Key Findings:
+Key Findings:
 
-###Peak ride hours differ:
+Peak ride hours differ:
 
 - Members peak at 7-9 AM & 5-7 PM → Commuting hours.
 
 - Casual riders peak at 10 AM - 4 PM → Leisure trips.
 
-###Casual users ride later in the day, while members prefer early
+Casual users ride later in the day, while members prefer early
 morning/evening rides.
 
 Visualization:
