@@ -161,4 +161,4 @@ long-term revenue.
 
 📂 Full R Code Snippets *(Attach cleaned and formatted .Rmd
 snippets)*.  
-📂 Raw Data Sample *(Optional CSV samples from cleaned dataset)*.
+📂 [Raw Data Sample](https://divvy-tripdata.s3.amazonaws.com/index.html).
